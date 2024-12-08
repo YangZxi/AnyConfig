@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,oaistatic.com
