@@ -2,6 +2,7 @@
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 36
 # TOTAL: 40
+# steam
 DOMAIN,steammobile.akamaized.net
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
@@ -39,6 +40,7 @@ DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steamuserimages
