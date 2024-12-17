@@ -14,7 +14,8 @@ DOMAIN-SUFFIX,4ksj.com
 DOMAIN-SUFFIX,cn.bing.com
 
 # Steam Download CDN
-DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,45.121.184.0/24
 IP-CIDR,103.10.124.0/23
