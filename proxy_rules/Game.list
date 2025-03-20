@@ -72,3 +72,6 @@ DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.net
+
+# faceit
+DOMAIN-SUFFIX,faceit.com
