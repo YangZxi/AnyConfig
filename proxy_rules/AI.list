@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,trae.ai
+# jetbrains
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,grazie.ai
